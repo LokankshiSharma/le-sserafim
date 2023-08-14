@@ -1,8 +1,8 @@
 var img = "";
 
 function setup(){
-    canvas= createCanvas(800, 600);
-    canvas.position(360, 190); 
+    canvas= createCanvas(600, 400);
+    canvas.position(360, 190);
 
 }
 
@@ -11,7 +11,7 @@ function preload(){
 }
 
 function draw(){
-    image(img, 0, 0, 800, 600);
+    image(img, 0, 0, 600, 400);
 
     fill("black");
     text ("Kazuha", 90, 175);
