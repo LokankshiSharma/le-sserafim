@@ -29,7 +29,7 @@ function draw(){
     text ("Sakura", 250, 175);
     noFill();
     stroke ("yellow");
-    rect(220, 10, 100 , 350);
+    rect(190, 10, 100 , 350);
 
     fill("purple");
     text ("Eunchae", 325, 175);
