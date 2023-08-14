@@ -29,17 +29,17 @@ function draw(){
     text ("Sakura", 250, 175);
     noFill();
     stroke ("yellow");
-    rect(190, 10, 100 , 350);
+    rect(150, 10, 100 , 350);
 
     fill("purple");
     text ("Eunchae", 325, 175);
     noFill();
     stroke ("purple");
-    rect(320, 10, 100 , 350);
+    rect(220, 10, 100 , 350);
 
     fill("blue");
     text ("Yunjin", 400, 175);
     noFill();
     stroke ("blue");
-    rect(420, 10, 100 , 350);
+    rect(300, 10, 100 , 350);
 }
