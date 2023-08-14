@@ -26,19 +26,19 @@ function draw(){
     rect(170, 10, 90, 350 );
 
     fill("yellow");
-    text ("Sakura", 250, 175);
+    text ("Sakura", 275, 175);
     noFill();
     stroke ("yellow");
     rect(260, 10, 100 , 350);
 
     fill("purple");
-    text ("Eunchae", 325, 175);
+    text ("Eunchae", 360, 175);
     noFill();
     stroke ("purple");
     rect(360, 10, 100 , 350);
 
     fill("blue");
-    text ("Yunjin", 400, 175);
+    text ("Yunjin", 420, 175);
     noFill();
     stroke ("blue");
     rect(460, 10, 100 , 350);
