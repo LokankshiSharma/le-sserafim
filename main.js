@@ -32,13 +32,13 @@ function draw(){
     rect(320, 10, 150 , 350);
 
     fill("purple");
-    text ("Jisoo", 500, 175);
+    text ("Eunchae", 500, 175);
     noFill();
     stroke ("purple");
     rect(470, 10, 120 , 350);
 
-    fill("purple");
-    text ("Yunjin", 500, 175);
+    fill("blue");
+    text ("Yunjin", 600, 175);
     noFill();
     stroke ("purple");
     rect(470, 10, 120 , 350);
