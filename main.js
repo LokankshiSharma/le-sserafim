@@ -23,23 +23,23 @@ function draw(){
     text ("Chaewon", 175, 175);
     noFill();
     stroke ("pink");
-    rect(150, 10, 100, 350 );
+    rect(170, 10, 90, 350 );
 
     fill("yellow");
     text ("Sakura", 250, 175);
     noFill();
     stroke ("yellow");
-    rect(220, 10, 100 , 350);
+    rect(260, 10, 100 , 350);
 
     fill("purple");
     text ("Eunchae", 325, 175);
     noFill();
     stroke ("purple");
-    rect(290, 10, 100 , 350);
+    rect(360, 10, 100 , 350);
 
     fill("blue");
     text ("Yunjin", 400, 175);
     noFill();
     stroke ("blue");
-    rect(340, 10, 100 , 350);
+    rect(460, 10, 100 , 350);
 }
