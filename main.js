@@ -14,7 +14,7 @@ function draw(){
     image(img, 0, 0, 600, 400);
 
     fill("black");
-    text ("Kazuha", 100, 175);
+    text ("Kazuha", 75, 175);
     noFill();
     stroke ("white");
     rect(20, 10, 150, 350);
@@ -29,7 +29,7 @@ function draw(){
     text ("Sakura", 250, 175);
     noFill();
     stroke ("yellow");
-    rect(150, 10, 100 , 350);
+    rect(175, 10, 100 , 350);
 
     fill("purple");
     text ("Eunchae", 325, 175);
